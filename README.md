@@ -133,9 +133,8 @@ zlib = "1.2.11"
 
 ## License
 
-Distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Distributed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-If you have questions or feedback, please create an Issue or contact us at:
-example@example.com
+If you have questions or feedback, please create an Issue.
