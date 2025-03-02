@@ -2,7 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/a89ac192-42d9-4bdd-8326-f22e3ecb548d)
 
-CPaM (C Package Manager) is a tool that automates the CMake build process and simplifies dependency management for C/C++ projects. It handles complex CMake configurations with simple commands, providing an environment that allows developers to focus on code.
+CPaM (C Package Manager) is a tool that automates the CMake build process and simplifies dependency management for C/C++/CUDA projects. It handles complex CMake configurations with simple commands, providing an environment that allows developers to focus on code.
+
+> [!CAUTION]
+> We have confirmed that it does not work properly with CUDA at this time. Please wait a while for the fix...
 
 ## Features
 
